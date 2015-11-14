@@ -1,0 +1,2 @@
+I think it is unnecessary to have the calendar icon with md-datapicker. Also there is a noticeable gap betwwen icon and left edge of div if layout-sm=column.
+
